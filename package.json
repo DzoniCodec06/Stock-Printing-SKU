@@ -1,0 +1,20 @@
+{
+  "name": "zebra-printer-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "electron": "^32.1.2"
+  },
+  "devDependencies": {
+    "canvas": "^2.11.2",
+    "docx": "^8.5.0",
+    "jsbarcode": "^3.11.6"
+  }
+}
